@@ -1,3 +1,3 @@
 print("What's gud?")
 
-Print("What's your name?")
+print("What's your name?")
